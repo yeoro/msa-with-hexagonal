@@ -1,13 +1,13 @@
-package com.yeoro.study;
+package com.yeoro.study.msa_with_hexagonal;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HexagonalApplication {
+public class MsaWithHexagonalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HexagonalApplication.class, args);
+		SpringApplication.run(MsaWithHexagonalApplication.class, args);
 	}
 
 }
